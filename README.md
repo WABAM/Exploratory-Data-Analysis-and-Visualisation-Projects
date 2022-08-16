@@ -1,2 +1,2 @@
-# Visualisation-Projects
-Repository contains visualisation projects
+# Exploratory-Data-Analysis-and-Visualisation-Projects
+Repository containing EDA and visualisation projects
