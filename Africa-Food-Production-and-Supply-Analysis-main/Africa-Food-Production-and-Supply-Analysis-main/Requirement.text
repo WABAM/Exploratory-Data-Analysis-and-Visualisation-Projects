@@ -1,0 +1,13 @@
+The requirements needed for the successfull running of this project:
+
+ - python (version 3.9.12)
+ 
+ - pandas (version 1.4.2)
+
+ - numpy (version 1.22.3)
+
+ - seaborn (version 0.11.2)
+
+ - matplotlib (version 3.4.1)
+
+ - plotly (version 5.10.0)
